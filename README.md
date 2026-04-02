@@ -6,3 +6,4 @@ Tool used; PowerBi
 The data used for this analysis was pulled from SQL database; connecting the database with powerbi 
 
 ![World Life expectancy](https://github.com/user-attachments/assets/416c127a-99d6-4e4b-871c-129c5e881bcc)
+![images](https://github.com/user-attachments/assets/9a8f560d-45c7-45ed-b7e2-4cab5fd6945d)
